@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\obj\Debug\net6.0\HomeWork02_10_2022.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\obj\Debug\net6.0\HomeWork02_10_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\obj\Debug\net6.0\HomeWork02_10_2022.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\obj\Debug\net6.0\HomeWork02_10_2022.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\obj\Debug\net6.0\HomeWork02_10_2022.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\bin\Debug\net6.0\HomeWork02_10_2022.exe
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\bin\Debug\net6.0\HomeWork02_10_2022.deps.json
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\bin\Debug\net6.0\HomeWork02_10_2022.runtimeconfig.json
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\bin\Debug\net6.0\HomeWork02_10_2022.dll
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\bin\Debug\net6.0\HomeWork02_10_2022.pdb
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\obj\Debug\net6.0\HomeWork02_10_2022.dll
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\obj\Debug\net6.0\refint\HomeWork02_10_2022.dll
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\obj\Debug\net6.0\HomeWork02_10_2022.pdb
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\obj\Debug\net6.0\HomeWork02_10_2022.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar26_09_2022\HomeWork02_10_2022\obj\Debug\net6.0\ref\HomeWork02_10_2022.dll
